@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "quickdrawing",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "b7677c96-4e07-4860-a6ce-3af8a79db84a",
+			"database_name": "quickdrawingdb"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
